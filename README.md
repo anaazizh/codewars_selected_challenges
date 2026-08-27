@@ -4,14 +4,14 @@ This repository contains my Python solutions for the Codewars Solutions Assignme
 
 ## Challenges completed
 
-- Roman Numerals Encoder
-- Insure an Investment
-- Sum of Digits / Digital Root
-- Product of consecutive Fib numbers
+- Even or Odd
+- Convert a Number to a String
+- Remove String Spaces
+- Vowel Count
 
 ## Files
 
-- `codewars_solutions.py` — Python solutions for all four Codewars challenges.
+- `codewars_solutions.py` — Python solutions for all four required Codewars challenges.
 
 ## How to run
 
@@ -26,6 +26,6 @@ This repository contains my Python solutions for the Codewars Solutions Assignme
 4. Import and test a function:
 
    ```python
-   from codewars_solutions import solution
-   print(solution(1990))
+   from codewars_solutions import even_or_odd
+   print(even_or_odd(2))
    ```
